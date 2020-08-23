@@ -102,6 +102,24 @@ collections:
           - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Program"
+        name: "program"
+        file: "src/content/pages/program.md"
+        fields:
+          - {
+              label: "Template",
+              name: "template",
+              widget: "hidden",
+              default: "program-page",
+            }
+          - {
+              label: "Slug",
+              name: "slug",
+              widget: "hidden",
+              default: "/program",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
       - label: "Contact"
         name: "contact"
         file: "src/content/pages/contact.md"

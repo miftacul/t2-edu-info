@@ -33,6 +33,7 @@ module.exports = {
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-transformer-remark`,
+      icon: `static/assets/favicon-32x32.png`,
       options: {
         gfm: true,
         plugins: [
@@ -79,13 +80,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Foundation`,
-        short_name: `Foundation`,
+        name: `Baladz International`,
+        short_name: `Baladz`,
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,
         display: `standalone`,
-        icon: `static/assets/stackrole.png`,
+        icon: `static/assets/favicon-32x32.png`,
       },
     },
     'gatsby-plugin-offline',

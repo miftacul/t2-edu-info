@@ -12,27 +12,28 @@ const query = graphql`
 query LayoutQuery {
   site {
     siteMetadata {
-      siteTitle: title
+      siteTitle: title,
+      siteLogo: image
     }
   }
 }
 `
 
-const Layout = ({children, className}) => {
+const Layout = ({ children, className }) => {
 
   const { site } = useStaticQuery(query)
-  const { siteTitle } = site.siteMetadata
+  const { siteTitle, siteLogo } = site.siteMetadata
 
   return (
     <div className="primary-container">
       <Header>
-        <Logo title={siteTitle} />
-        <Navigation/>
+        <Logo logo={siteLogo} title={siteTitle} />
+        <Navigation />
       </Header>
       <main className={"container " + className}>
         {children}
       </main>
-      <Footer/>
+      <Footer />
     </div>
   )
 }
