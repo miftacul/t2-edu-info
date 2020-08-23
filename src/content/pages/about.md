@@ -5,7 +5,7 @@ title: Tentang Baladz
 ---
 Baladz merupakan sebuah lembaga yang bertujuan untuk menhidupkan kembali semangat dakwah dari generasi muda melalui Tahfidz, Tahsin dan Talim.
 
-![Baladz](/assets/baladzadmin-min.jpg "Baladz")
+![Baladz](/assets/baladz-min.png "Baladz")
 
 Baladz beralamat lengkap di Komp. Perumahan Pasirlayung Barat No.44 Padasuka, Cimenyan Bandung Jawa Barat 40192 Indonesia.
 
