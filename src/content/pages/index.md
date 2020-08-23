@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Baladil Hufadz
+tagline: Lembaga Tahfidz Al-Quran
+featuredImage: /assets/baladz-min.png
 cta:
-  ctaText: Know more
+  ctaText: Ingin tau lebih detail?
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Baladil Huffaadz merupakan sebuah lembaga yang bertujuan untuk menciptakan generasi pecinta Al-Quran.
