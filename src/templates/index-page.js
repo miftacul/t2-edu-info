@@ -2,6 +2,7 @@ import React from "react"
 import { graphql, Link } from "gatsby"
 import Img from "gatsby-image"
 import { RiArrowRightSLine } from "react-icons/ri"
+import Slider from 'infinite-react-carousel';
 
 import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
@@ -39,26 +40,58 @@ const HomePage = ({ data }) => {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
   const Image = frontmatter.featuredImage ? frontmatter.featuredImage.childImageSharp.fluid : ""
+  const settings = {
+    arrows: false,
+    autoplay: true,
+    autoplaySpeed: 10000,
+    dots: true,
+    duration: 500,
+    pauseOnHover: false,
+    shift: 10
+  };
   return (
     <Layout>
       <SEO />
-      <div className="home-banner grids col-1 sm-2">
+      <Slider {...settings}>
         <div>
-          <h1 class="title">{frontmatter.title}</h1>
-          <p class="tagline">{frontmatter.tagline}</p>
-          <div className="description" dangerouslySetInnerHTML={{ __html: html }} />
-          <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}<span class="icon -right"><RiArrowRightSLine /></span></Link>
+          <div className="home-banner grids col-1 sm-2">
+            <div>
+              <h1 class="title">{frontmatter.title}</h1>
+              <p class="tagline">{frontmatter.tagline}</p>
+              <div className="description" dangerouslySetInnerHTML={{ __html: html }} />
+              <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}<span class="icon -right"><RiArrowRightSLine /></span></Link>
+            </div>
+            <div>
+              {Image ? (
+                <Img
+                  fluid={Image}
+                  alt={frontmatter.title + ' - Featured image'}
+                  className="featured-image"
+                />
+              ) : ""}
+            </div>
+          </div>
         </div>
         <div>
-          {Image ? (
-            <Img
-              fluid={Image}
-              alt={frontmatter.title + ' - Featured image'}
-              className="featured-image"
-            />
-          ) : ""}
+          <div className="home-banner grids col-1 sm-2">
+            <div>
+              <h1 class="title">{frontmatter.title}</h1>
+              <p class="tagline">{frontmatter.tagline}</p>
+              <div className="description" dangerouslySetInnerHTML={{ __html: html }} />
+              <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}<span class="icon -right"><RiArrowRightSLine /></span></Link>
+            </div>
+            <div>
+              {Image ? (
+                <Img
+                  fluid={Image}
+                  alt={frontmatter.title + ' - Featured image'}
+                  className="featured-image"
+                />
+              ) : ""}
+            </div>
+          </div>
         </div>
-      </div>
+      </Slider>
       <BlogListHome />
       <ContactUs></ContactUs>
     </Layout>
