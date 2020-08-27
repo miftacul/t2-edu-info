@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql, Link } from "gatsby"
+import { graphql, Link, useStaticQuery } from "gatsby"
 import Img from "gatsby-image"
 import { RiArrowRightSLine } from "react-icons/ri"
 import Slider from 'infinite-react-carousel';
@@ -8,6 +8,20 @@ import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
 import SEO from "../components/seo"
 import ContactUs from "../components/contactus"
+
+// const waQuery = graphql`
+// query WAQuery {
+//   allWaJson {
+//     edges {
+//       node {
+//         hp
+//         message
+//       }
+//     }
+//   }
+// }
+// `
+
 
 export const pageQuery = graphql`
   query HomeQuery($id: String!){
@@ -33,13 +47,19 @@ export const pageQuery = graphql`
         }
       }
     }
+    dataJson {
+      hp
+      message
+    }
   }
 `
 
 const HomePage = ({ data }) => {
-  const { markdownRemark } = data // data.markdownRemark holds your post data
+  const { markdownRemark, dataJson } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
   const Image = frontmatter.featuredImage ? frontmatter.featuredImage.childImageSharp.fluid : ""
+  // const { site } = useStaticQuery(waQuery)
+  const { hp, message } = dataJson
   const settings = {
     arrows: false,
     autoplay: true,
@@ -93,7 +113,7 @@ const HomePage = ({ data }) => {
         </div>
       </Slider>
       <BlogListHome />
-      <ContactUs></ContactUs>
+      <ContactUs hp={hp} message={message}></ContactUs>
     </Layout>
   )
 }

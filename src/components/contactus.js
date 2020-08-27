@@ -9,7 +9,8 @@ class ContactUs extends React.Component {
   }
 
   gotoWa() {
-    window.open("https://api.whatsapp.com/send?phone=6282220131088&text=Assalamualaikum%2C%20Saya%20ingin%20bertanya%20mengenai%20Baladz", "_blank");
+    var message = encodeURI(this.props.message);
+    window.open("https://api.whatsapp.com/send?phone=" + this.props.hp + "&text=" + message, "_blank");
   }
 
   render() {

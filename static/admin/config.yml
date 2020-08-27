@@ -162,3 +162,15 @@ collections:
             name: ga
             widget: string
             hint: "Add you tracking ID, for example UA-XXXXXXXXX-X"
+      - name: wa
+        label: "Contact WA"
+        file: "src/data/wa.json"
+        fields:
+          - widget: string
+            name: hp
+            label: Hp
+            hint: "Add your WA Number. Start with 62"
+          - widget: string
+            name: message
+            label: Message
+            hint: "Add welcome message"
