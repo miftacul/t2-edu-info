@@ -1,6 +1,4 @@
 import React from "react"
-import { Link } from "gatsby"
-import Img from "gatsby-image"
 
 class ContactUs extends React.Component {
   constructor(props) {
@@ -15,7 +13,7 @@ class ContactUs extends React.Component {
 
   render() {
     return (
-      <div onClick={this.gotoWa} className="contactUs">Hubungi Kami <img width="25px" style={{ verticalAlign: "bottom" }} src="assets/wa-min.png"></img></div>
+      <div onClick={this.gotoWa} className="contactUs">Hubungi Kami <img alt="wa" width="25px" style={{ verticalAlign: "bottom" }} src="assets/wa-min.png"></img></div>
     )
   }
 }

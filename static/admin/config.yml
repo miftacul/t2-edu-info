@@ -46,6 +46,12 @@ collections:
           timeFormat: "HH:mm",
           format: "YYYY-MM-DD HH:mm",
         }
+      - {
+          label: "Tampilkan di Halaman Utama",
+          name: "isMain",
+          widget: "boolean",
+        }
+      - { label: "Tagline", name: "tagline", widget: "string" }
       - { label: "SEO Description", name: "description", widget: "text" }
       - {
           label: "Featured Image",
@@ -64,31 +70,6 @@ collections:
   - label: "Pages"
     name: "pages"
     files:
-      - label: "Home"
-        name: "home"
-        file: "src/content/pages/index.md"
-        fields:
-          - {
-              label: "Template",
-              name: "template",
-              widget: "hidden",
-              default: "index-page",
-            }
-          - { label: "Slug", name: "slug", widget: "hidden", default: "/" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Tagline", name: "tagline", widget: "string" }
-          - { label: "Featured Image", name: "featuredImage", widget: "image" }
-          - { label: "Body", name: "body", widget: "markdown" }
-          - label: "CTA"
-            name: "cta"
-            widget: "object"
-            fields:
-              - name: "ctaText"
-                label: "CTA text"
-                widget: "string"
-              - name: "ctaLink"
-                label: "CTA Link"
-                widget: "string"
       - label: "About"
         name: "about"
         file: "src/content/pages/about.md"
@@ -99,6 +80,14 @@ collections:
               widget: "hidden",
               default: "about-page",
             }
+          - {
+              label: "Tampilkan di Halaman Utama",
+              name: "isMain",
+              widget: "boolean",
+            }
+          - { label: "Tagline", name: "tagline", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Featured Image", name: "featuredImage", widget: "image" }
           - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
@@ -112,6 +101,14 @@ collections:
               widget: "hidden",
               default: "program-page",
             }
+          - {
+              label: "Tampilkan di Halaman Utama",
+              name: "isMain",
+              widget: "boolean",
+            }
+          - { label: "Tagline", name: "tagline", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Featured Image", name: "featuredImage", widget: "image" }
           - {
               label: "Slug",
               name: "slug",
