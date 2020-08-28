@@ -1,10 +1,13 @@
 ---
-title: Typography
 template: blog-post
-date: 2020-05-13 09:19
+title: Ruang kelas Baladz yang baru
 slug: typography
+date: 2020-05-13 09:19
+isMain: true
+tagline: Ruang Kelas Baladz
+description: Baladz memiliki ruang kelas yang baru. Dengan design yang lebih
+  modern sehingga nyaman dalam proses kegiatan belajar dang mengajar
 featuredImage: /assets/alexander-andrews-zw07kvdahpw-unsplash.jpg
-description: metaphorically make a deal with the devil
 ---
 \# When will that be?\
 \
