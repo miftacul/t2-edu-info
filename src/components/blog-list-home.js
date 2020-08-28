@@ -10,7 +10,7 @@ const PostMaker = ({ data }) => (
     <div className="grids col-1 sm-2 lg-3">
       {data}
     </div>
-    <Link className="button" to="/blog">See more<span className="icon -right"><RiArrowRightSLine /></span></Link>
+    <Link className="button" to="/blog">Lihat yang lain<span className="icon -right"><RiArrowRightSLine /></span></Link>
   </section>
 )
 
