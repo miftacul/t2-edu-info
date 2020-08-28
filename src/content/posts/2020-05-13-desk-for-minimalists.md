@@ -1,12 +1,13 @@
 ---
 template: blog-post
-title: Meja Minimalis di Baladz
+title: Suasana Belajar di Baladz
 slug: minimalists-desk
 date: 2020-05-13 12:46
 isMain: true
-tagline: Meja Baladz
+tagline: Belajar di Baladz
 description: Baladz memiliki meja-meja yang minimalis dan sangat nyaman dalam
-  pelaksanaan belajar mengajar
+  pelaksanaan belajar mengajar sehingga memanjakan para santry dalam menyerap
+  ilmu-ilmu agama.
 featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
 ---
 Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
