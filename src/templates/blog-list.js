@@ -1,5 +1,5 @@
 import React from "react"
-import { Link , graphql } from "gatsby"
+import { Link, graphql } from "gatsby"
 import { RiArrowRightLine, RiArrowLeftLine } from "react-icons/ri"
 
 import Layout from "../components/layout"
@@ -42,7 +42,7 @@ const Pagination = (props) => (
       {!props.isFirst && (
         <li>
           <Link to={props.prevPage} rel="prev">
-          <span className="icon -left"><RiArrowLeftLine/></span> Previous
+            <span className="icon -left"><RiArrowLeftLine /></span> Previous
           </Link>
         </li>
       )}
@@ -59,7 +59,7 @@ const Pagination = (props) => (
       {!props.isLast && (
         <li>
           <Link to={props.nextPage} rel="next">
-            Next <span className="icon -right"><RiArrowRightLine/></span>
+            Next <span className="icon -right"><RiArrowRightLine /></span>
           </Link>
         </li>
       )}
@@ -68,10 +68,10 @@ const Pagination = (props) => (
 )
 class BlogIndex extends React.Component {
   render() {
-    
+
     const { data } = this.props
     const { currentPage, numPages } = this.props.pageContext
-    const blogSlug = '/blog/' 
+    const blogSlug = '/blog/'
     const isFirst = currentPage === 1
     const isLast = currentPage === numPages
     const prevPage = currentPage - 1 === 1 ? blogSlug : blogSlug + (currentPage - 1).toString()
@@ -91,14 +91,14 @@ class BlogIndex extends React.Component {
       isLast,
       nextPage
     }
-    
+
     return (
       <Layout className="blog-page">
         <SEO
           title={"Blog — Page " + currentPage + " of " + numPages}
-          description={"Stackrole base blog page " + currentPage + " of " + numPages }
+          description={"Stackrole base blog page " + currentPage + " of " + numPages}
         />
-        <h1>Blog</h1>
+        <h1>Event-event di Baladz</h1>
         <div className="grids col-1 sm-2 lg-3">
           {posts}
         </div>
