@@ -2,16 +2,14 @@
 template: about-page
 isMain: true
 tagline: Baladz Internationl, Pusat Kajian dan Pembelajaran AlQuran
-description: Rumah Tahfidz AlQuran Baladil Huffaadz, kelak menjadi generik
-  dengan Baladz,Pusat Kajian Keilmuan dan Pembelajaran AlQuran
+description: Weekend di Baladz [Nyantri akhir pekan di Baladz dengan konsentrasi
+  menghapal Juzz 30 dan Juzz 29, khusus untuk uisa SD].
 featuredImage: /assets/baladz-min.png
 slug: /about
 title: Tentang Baladz
 ---
-Berdiri tahun Masehi 2018 di Bandung. InsyaAllooh Baladz didesain untuk menjadi pusat kejian dan pembelajaran AlQuran dengan cakupan semua tingkatan usia, secara klasikal atau digital.
+Berdiri tahun 1440/2018 di Bandung. Jawa Barat. Saat ini telah membuka program PAUD/TK AlQuran, program tahsin regular, dan Majelis Akhwat \[pengajian untuk muslimah], dan gerakan sosial kemasyarakatan \[santunan kepada yatim dan dhuafa].
 
-![Baladz](/assets/selamat14342h.jpg "Baladz")
+Dengan memohon Pertolongan serta Ridho Allooh, Baladz merencanakan untuk membuka dan mendirikan Sekolah Sulaiman \[Sekolah formal tingkat SD, SLTP, SLTA] berbasis AlQuran, mendirikan BMT, Sekolah Pemberdayaan \[social empowering], dan Pusat Kajian Keislaman \[perpustakaan digital], dan mendirikan Masjid Umar bin Khattab sebagai pusat pembinaan karakter keislaman berbasis akhlaq AlQuran.
 
-Baladz beralamat lengkap di Komp. Perumahan Pasirlayung Barat No.44 Padasuka, Cimenyan Bandung Jawa Barat 40192 Indonesia.
-
-Jam Buka setiap hari dari jam 07:00 - 20:00 WIB.
+Mohon dukungan dan doa dari kaum Muslimin.
