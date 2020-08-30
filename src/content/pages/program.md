@@ -7,10 +7,9 @@ featuredImage: /assets/web2.jpg
 slug: /program
 title: Program Baladz
 ---
-
 Berikut program-program yang tersedia di Baladz
 
-![Baladz](/assets/baladzadmin-min.jpg "Baladz")
+![Baladz](/assets/web3.jpg "Baladz")
 
 Baladz beralamat lengkap di Komp. Perumahan Pasirlayung Barat No.44 Padasuka, Cimenyan Bandung Jawa Barat 40192 Indonesia.
 
