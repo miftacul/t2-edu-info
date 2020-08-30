@@ -1,11 +1,11 @@
 ---
 template: program-page
-slug: /program
-title: Program Baladz
 isMain: true
 tagline: Lembaga Tahfidz Al-Quran
 description: Berikut program-program yang tersedia di Baladz
-featuredImage: /assets/baladzadmin-min.jpg
+featuredImage: /assets/web2.jpg
+slug: /program
+title: Program Baladz
 ---
 
 Berikut program-program yang tersedia di Baladz
