@@ -6,6 +6,6 @@ date: 2020-05-13 12:47
 isMain: true
 tagline: Rumah Tahfidz
 description: Baladz International
-featuredImage: /assets/charles-deluvio-d-vdqmtfaau-unsplash.jpg
+featuredImage: /assets/web1.jpg
 ---
 Sesame Momos
