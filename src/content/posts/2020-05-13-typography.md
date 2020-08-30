@@ -1,12 +1,15 @@
 ---
 template: blog-post
-title: Ruang kelas Baladz yang baru
+title: Belajar AlQuran itu Menyenangkan
 slug: typography
-date: 2020-05-13 09:19
+date: 2020-08-31 06:08
 isMain: true
-tagline: Ruang Kelas Baladz
-description: Baladz memiliki ruang kelas yang baru. Dengan design yang lebih
-  modern sehingga nyaman dalam proses kegiatan belajar dang mengajar
+tagline: Belajar AlQuran untuk semua Kalangan dan Kelompok Umur
+description: Faunder Baladz adalah mereka yang mengupayakan agar siapapun {yang
+  belajar AlQuran di Baladz] mengawalinya dengan niat keikhlasan hanya memohon
+  Ridho Allooh. Karenanya, para pengajar AlQuran di Baladz berkomitmen untuk
+  selalu belajar dan memahamkan dirinya terhadap keutamaan mengajarkan dan
+  belajar AlQuran.
 featuredImage: /assets/web4.jpg
 ---
 \# When will that be?\
