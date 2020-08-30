@@ -7,7 +7,7 @@ isMain: true
 tagline: Ruang Kelas Baladz
 description: Baladz memiliki ruang kelas yang baru. Dengan design yang lebih
   modern sehingga nyaman dalam proses kegiatan belajar dang mengajar
-featuredImage: /assets/alexander-andrews-zw07kvdahpw-unsplash.jpg
+featuredImage: /assets/web4.jpg
 ---
 \# When will that be?\
 \
