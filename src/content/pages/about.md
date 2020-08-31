@@ -1,7 +1,7 @@
 ---
 template: about-page
 isMain: true
-tagline: Baladz Internationl, Pusat Kajian dan Pembelajaran AlQuran
+tagline: Baladz; Mukmin Berkarakter Islam, Berakhlaq AlQuran
 description: Telah dibuka Program Karantina Calon Hafidzoh usia min 14 Tahun.
 featuredImage: /assets/baladz-min.png
 slug: /about
