@@ -13,7 +13,7 @@ Program ini didesain secara berkelanjutan. Hasil pencapaian hapalan calon Hafidz
 
 **Peserta Karantina Calon Hafidzoh adalah:**
 
-(1) Akhwat, usia minimal 14 Tahun, (2) Bersedia mengikuti program berasrama, (3) Bersedia dan menyelsaikan infaq program di awal pelaksanaan program, (4) Menyatakan kesediaan mengikuti semua ketentuan Karantina.
+(1) Akhwat, usia minimal 14 Tahun, (2) Bersedia mengikuti program berasrama, (3) Bersedia dan menyelesaikan infaq program di awal pelaksanaan program, (4) Menyatakan kesediaan mengikuti semua ketentuan Karantina.
 
 Rencana mulai Program, insyaAllooh tanggal **01 November 2020 sampai 30 November 2020.** Bertempat **di Baladil Huffaadz Bandung.**
 
