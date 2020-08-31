@@ -2,7 +2,7 @@
 template: blog-post
 title: Atmosfir Belajar AlQuran di Baladz
 slug: /minimalists-desk
-date: 2020-08-31 10:46
+date: 2020-08-31 12:40
 isMain: true
 tagline: Belajar AlQuran di Baladz
 description: "Selamat datang di Baladz. Di sini, kita berkumpul; Belajar
