@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Suasana Belajar di Baladz
+title: Atmosfir Belajar AlQuran di Baladz
 slug: /minimalists-desk
 date: 2020-08-31 10:46
 isMain: true
