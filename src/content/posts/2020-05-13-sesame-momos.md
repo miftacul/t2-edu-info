@@ -1,11 +1,12 @@
 ---
 template: blog-post
 title: Baladil Huffaadz International
-slug: baladil-huffaadz-international
-date: 2020-05-13 12:47
+slug: /baladil-huffaadz-international
+date: 2020-08-31 10:52
 isMain: true
-tagline: Rumah Tahfidz
-description: Baladz International
+tagline: Tempat yang Menyenangkan untuk Belajar AlQuran
+description: "Program: Weekwnd di Baladz, Liburan di Baladz, Majelis Ta'lim,
+  Tahsin Regular, Mabit di Baladz, Tahfidz Intensif."
 featuredImage: /assets/web1.jpg
 ---
 Sesame Momos
