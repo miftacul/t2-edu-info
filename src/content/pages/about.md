@@ -2,8 +2,7 @@
 template: about-page
 isMain: true
 tagline: Baladz Internationl, Pusat Kajian dan Pembelajaran AlQuran
-description: Weekend di Baladz [Nyantri akhir pekan di Baladz dengan konsentrasi
-  menghapal Juzz 30 dan Juzz 29, khusus untuk uisa SD].
+description: Telah dibuka Program Karantina Calon Hafidzoh usia min 14 Tahun.
 featuredImage: /assets/baladz-min.png
 slug: /about
 title: Tentang Baladz
