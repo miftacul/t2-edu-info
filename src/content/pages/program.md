@@ -10,8 +10,6 @@ title: Program Baladz
 ---
 Desain Baladz adalah belajar AlQuran dengan pendekatan terhadap perangkat keilmuannya; Tajwid, dan diikhtiarkan untuk berkesesuaian serta bersanad kepada bacaan Rasulullah shallallohu alaihi wasallam.
 
-![Baladz](/assets/web3.jpg "Baladz International")
+![Kelas Weekend di Baladz](/assets/web3.jpg "Baladz International")
 
-Baladil Huffaadz International \[Baladz], Jl Pasirlayung Barat 44, Padasuka, Cimenyan, Bandung, Jawa Barat. 
-
-Program: Baladz 1 untuk Pemula \[Iqro], Tahsin, dan Ta'lim.
+Baladil Huffaadz International \[Baladz], Jl Pasirlayung Barat 44, Padasuka, Cimenyan, Bandung, Jawa Barat.
