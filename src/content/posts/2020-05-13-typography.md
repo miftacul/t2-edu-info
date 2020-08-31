@@ -12,6 +12,6 @@ description: Faunder Baladz adalah mereka yang mengupayakan agar siapapun [yang
   belajar AlQuran.
 featuredImage: /assets/web4.jpg
 ---
-Saat ini, Baladz sudah dan sedang bekerjasama dengan setidaknya 7 lembaga pendidikan formal setingkat sekolah dasar.
+Saat ini, Baladz sudah dan sedang bekerjasama dengan **setidaknya 7 lembaga pendidikan formal** setingkat sekolah dasar.
 
 Baladz memberikan dan mengajarkan bagaimana berinteraksi dengan AlQuran sesuai kaidah perangkat keilmuan \[Ilmu Tajwid dan Bahasa Arab].
