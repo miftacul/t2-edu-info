@@ -9,4 +9,4 @@ description: "Program: Weekend di Baladz, Liburan di Baladz, Majelis Ta'lim,
   Tahsin Regular, Mabit di Baladz, Tahfidz Intensif."
 featuredImage: /assets/web1.jpg
 ---
-Sesame Momos
+Mempersiapkan dan membekali generasi qurani berakhlaq AlQuran.
