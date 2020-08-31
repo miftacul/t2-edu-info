@@ -4,7 +4,7 @@ isMain: true
 tagline: Baladz; Menuju Generasi Qurani, Berakhlaq AlQuran
 description: Saat ini, sekitar 150 anak usia SD dan SMP mempelajari AlQuran
   dalam berbagai level; Iqro sampai Program Tahfidz. Sekitar 100 Muslimah secara
-  bergantian mengikuti Majels Ta'lim di Baladz. Demiakian juga dengan private
+  bergantian mengikuti Majels Ta'lim di Baladz. Demikian juga dengan private
   class yang mengisi pergantian waktu dan hari, Senin-Sabtu, mulai 07:00-21:00.
   InsyaAllooh mendatangkan dan mengundang kebaikan kepada mereka yang belajar
   dan mengajarkan AlQuran.
