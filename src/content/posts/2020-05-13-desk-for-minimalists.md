@@ -5,9 +5,9 @@ slug: /minimalists-desk
 date: 2020-08-31 10:46
 isMain: true
 tagline: Belajar AlQuran di Baladz
-description: "Selamat datang di Baladz. Di sini, kita berkumpul untuk belajar
-  bagaimana mempersiapkan bekal menyelesaikan tujuan penciptaan kita; untuk
-  beribadah. "
+description: "Selamat datang di Baladz. Di sini, kita berkumpul; Belajar
+  bagaimana mempersiapkan bekal untuk menyelesaikan tugas sehingga mencapai
+  tujuan penciptaan kita; untuk beribadah. "
 featuredImage: /assets/2351cfde-770b-4fb2-99cb-7e01717c5d51.jpg
 ---
 Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
