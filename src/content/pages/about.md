@@ -3,10 +3,10 @@ template: about-page
 isMain: true
 tagline: Baladz; Menuju Generasi Qurani, Berakhlaq AlQuran
 description: "Telah dibuka Program Karantina Calon Hafidzoh usia min 14 Tahun.
-  Tujuan: Menghapal AlQuran [Kel 5 Juzz, 15 Juzz, 30 Juzz]. Program insyaAllooh
-  dimulai 1 Desember 2020. Silakan berkomunikasi dengan narahubung Baladz
-  melalui WA. Karantina Calon Hafidzoh hanya menerima 11 Calon Hafidzoh melalui
-  seleksi."
+  Tujuan: Menghapal AlQuran [Kelompok target: 5 Juzz, 15 Juzz, 30 Juzz]. Program
+  insyaAllooh dimulai 01 November 2020. Silakan berkomunikasi dengan narahubung
+  Baladz melalui WA. Karantina Calon Hafidzoh hanya menerima 11 Calon Hafidzoh
+  melalui seleksi."
 featuredImage: /assets/baladz-min.png
 slug: /about
 title: Tentang Baladz
