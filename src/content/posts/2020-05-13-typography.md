@@ -5,7 +5,7 @@ slug: /typography
 date: 2020-08-31 06:08
 isMain: true
 tagline: Belajar AlQuran untuk semua Kalangan
-description: Faunder Baladz adalah mereka yang mengupayakan agar siapapun [yang
+description: Founder Baladz adalah mereka yang mengupayakan agar siapapun [yang
   belajar AlQuran di Baladz] mengawalinya dengan niat keikhlasan hanya memohon
   Ridho Allooh. Karenanya, para pengajar AlQuran di Baladz berkomitmen untuk
   selalu belajar dan memahamkan dirinya terhadap keutamaan mengajarkan dan
