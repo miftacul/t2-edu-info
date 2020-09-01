@@ -2,10 +2,16 @@
   "meta": {
     "title": "Baladz International",
     "titleTemplate": "%s",
-    "description": "Powered by T2Solution",
+    "description": "Tempat Belajar dan Mengaji Al-Quran",
     "siteUrl": "https://baladz.net",
     "image": "/assets/web5.jpg",
-    "twitterUsername": "@baladz_id"
+    "twitterUsername": "baladz_id",
+    "igUsername": "baladilhuffaadz",
+    "facebookUsername": "",
+    "gmapLocationUrl": "https://www.google.com/maps/search/Komp.+Perumahan+Pasirlayung+Barat+No.44+Padasuka,+Cimenyan,+Bandung,+Jawa+Barat/data=!3m1!4b1",
+    "phoneNumber": "+6288 222 822 233",
+    "copyright": "Developed by T2 Solution",
+    "location": "Jl Pasirlayung Barat 44, Padasuka, Cimenyan, Bandung, Jawa Barat"
   },
   "ga": "UA-XXXXXXXXX-X"
 }

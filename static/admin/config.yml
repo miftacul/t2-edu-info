@@ -152,7 +152,31 @@ collections:
                 default: "/assets/stackrole.png"
               - widget: string
                 name: twitterUsername
-                label: Twitter
+                label: Twitter Username
+                required: false
+              - widget: string
+                name: igUsername
+                label: Instagram Username
+                required: false
+              - widget: string
+                name: facebookUsername
+                label: Facebook Username
+                required: false
+              - widget: string
+                name: gmapLocationUrl
+                label: Gmap Location Url
+                required: false
+              - widget: string
+                name: phoneNumber
+                label: CS Number
+                required: false
+              - widget: string
+                name: copyright
+                label: Copyright Description
+                required: false
+              - widget: string
+                name: location
+                label: Address Location
                 required: false
 
           - label: "Google Analytics"

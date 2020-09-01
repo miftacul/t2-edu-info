@@ -13,7 +13,14 @@ query LayoutQuery {
   site {
     siteMetadata {
       siteTitle: title,
-      siteLogo: image
+      siteLogo: image,
+      siteTwitter:twitterUsername,
+      siteIg:igUsername,
+      siteFb:facebookUsername,
+      siteGmap:gmapLocationUrl,
+      sitePhone:phoneNumber,
+      siteCopyright:copyright,
+      siteLocation:location
     }
   }
 }
@@ -33,7 +40,7 @@ const Layout = ({ children, className }) => {
       <main className={"container " + className}>
         {children}
       </main>
-      <Footer />
+      <Footer site={site} />
     </div>
   )
 }
