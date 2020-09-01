@@ -51,7 +51,6 @@ const HomePage = ({ data }) => {
     autoplaySpeed: 10000,
     dots: true,
     duration: 500,
-    pauseOnHover: false,
     shift: 10
   };
 

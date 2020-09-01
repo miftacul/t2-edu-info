@@ -52,7 +52,7 @@ collections:
           widget: "boolean",
         }
       - { label: "Tagline", name: "tagline", widget: "string" }
-      - { label: "SEO Description", name: "description", widget: "text" }
+      - { label: "SEO Description", name: "description", widget: "string" }
       - {
           label: "Featured Image",
           name: "featuredImage",
