@@ -40,7 +40,7 @@ const Layout = ({ children, className }) => {
       <main className={"container " + className}>
         {children}
       </main>
-      <Footer site={site} />
+      <Footer site={site.siteMetadata} />
     </div>
   )
 }
