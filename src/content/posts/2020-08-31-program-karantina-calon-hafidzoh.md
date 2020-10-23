@@ -11,7 +11,7 @@ featuredImage: /assets/flierig.jpg
 ---
 Program ini didesain secara berkelanjutan. Hasil pencapaian hapalan calon Hafidzoh akan sangat ditentukan oleh keuletan, kedisiplinan, dan ikhtiar dari calon Hafidzoh, **diawali ikhlas karena hanya mengharap Ridho Allooh semata**, dibimbing secara intensif oleh Majelis Asatidz Baladz.
 
-**Peserta Karantina Calon Hafidzoh adalah:**
+**Peserta Homestay Calon Hafidzoh adalah:**
 
 (1) Akhwat, usia minimal 13 Tahun, (2) Bersedia mengikuti program berasrama, (3) Bersedia dan menyelesaikan infaq program di awal pelaksanaan program, (4) Menyatakan kesediaan mengikuti semua ketentuan Karantina.
 
