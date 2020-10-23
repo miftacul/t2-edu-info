@@ -5,7 +5,7 @@ slug: /Mukim-30-hari-di-Baladz
 date: 2020-10-23 19:05
 isMain: true
 tagline: Homestay Calon Hafidzoh
-description: Daily activities; Ibadah fardhu dan sunnah [shalat tahajud , puasa
+description: Daily activities; Ibadah fardhu dan sunnah [shalat tahajud, puasa
   sunnah, majelis ta'lim kajian tematik].
 featuredImage: /assets/flierig.jpg
 ---
