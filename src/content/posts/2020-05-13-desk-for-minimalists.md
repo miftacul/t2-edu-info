@@ -10,6 +10,7 @@ description: "Selamat datang di Baladz. Di sini, kita berkumpul; Belajar
   tujuan penciptaan kita; untuk beribadah. "
 featuredImage: /assets/2351cfde-770b-4fb2-99cb-7e01717c5d51.jpg
 ---
+![Atmosfir Belajar AlQuran di Baladz](/assets/2351cfde-770b-4fb2-99cb-7e01717c5d51.jpg "Atmosfir Belajar AlQuran di Baladz")
 
 Baladz sedang mempersiapkan lahan seluas lebih dari setengah hektar. Di atasnya insyaAllooh akan dibangun **Masjid 'Umar** sebagai sentral kegiatan dakwah dan pengajaran dan belajar AlQuran. Akan dibangun juga **tempat belajar serta asrama hafidz/hafidzoh berstandar nasional.**
 
